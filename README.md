@@ -1,2 +1,14 @@
-# Indynovastore-
-"IndyNova Store एक तेज़ और सुरक्षित प्लेटफ़ॉर्म है जहाँ आप फ्री में ऐप्स और गेम डाउनलोड कर सकते हैं और अपनी ऐप अपलोड कर के कमाई भी कर सकते हैं।"
+# IndyNova Store — Enhanced Version
+यह पूरी तरह अपग्रेड किया हुआ प्रोजेक्ट है।
+GitHub पर अपलोड करने के लिए तैयार।
+
+Features:
+- Home page
+- App list + categories
+- Upload page
+- Login / Signup UI
+- Developer dashboard
+- Admin panel UI
+- Ads placeholders
+- Dark mode support
+- Responsive UI
